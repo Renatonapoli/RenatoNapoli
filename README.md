@@ -32,7 +32,8 @@
   <img align="center" alt="Renato-Vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Renato-Vuetify" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" /> 
   <img align="center" alt="Renato-Nuxtjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" /> 
-  <img align="center" alt="Renato-Angularjs" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angular.svg" /> 
+  <img align="center" alt="Renato-Angular" height="30" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg" />
+
   
   </div>
   
