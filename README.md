@@ -4,7 +4,7 @@
 
 - 💻 Sou Dev Front-End, gosto de codar todos os dias, mesmo que seja apenas um Hello World! 🤓
 - 👨‍💻 Estou sempre aprendendo a aprender. Também aprende compartilhando conhecimentos.
-- 💬 Pergunte-me sobre HTML, CSS, JavaScript, VueJs, React, dentre outras.
+- 💬 Pergunte-me sobre HTML, CSS, JavaScript, VueJs, React, Angular, dentre outras tecnologias.
 - 📖 Gosto de ter meu momento diário para a leitura, compartilho de temas diversos para expandir meus horizontes.
 - 🍽️ Me aventuro na cozinha, gosto de adaptar receitas e fazer delas mais desgutáveis 🤪
 - 🎻 Amo instrumento de cordas, porém ando meio enfurrajado no meu violão 🙃
